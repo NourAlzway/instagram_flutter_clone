@@ -25,7 +25,16 @@ The project is built with Model View ViewModel (MVVM) as a Software Architecture
 
 ## Screenshots
 
+![Screenshot 1](https://raw.githubusercontent.com/NourAlzway/instagram_flutter_clone/master/screenshots/1.png)
+![Screenshot 2](https://raw.githubusercontent.com/NourAlzway/instagram_flutter_clone/master/screenshots/2.png)
+![Screenshot 3](https://raw.githubusercontent.com/NourAlzway/instagram_flutter_clone/master/screenshots/3.png)
+![Screenshot 4](https://raw.githubusercontent.com/NourAlzway/instagram_flutter_clone/master/screenshots/4.png)
+![Screenshot 5](https://raw.githubusercontent.com/NourAlzway/instagram_flutter_clone/master/screenshots/5.png)
+![Screenshot 6](https://raw.githubusercontent.com/NourAlzway/instagram_flutter_clone/master/screenshots/6.png)
+
 ## GIF
+
+![Instagram Clone By NourAlzway](https://raw.githubusercontent.com/NourAlzway/instagram_flutter_clone/master/screenshots/video.gif)
 
 ## Demo
 
